@@ -69,6 +69,6 @@
  "SBS_X",
  "O1BC_X",
  "RAA_X"],
-"data_path" : "/home/afhuertas/data-science/master/thesis/finance/data/frankfurt_bundle/daily" , 
+"data_path" : "C:\Users\CTS\Downloads\DB1.DE (2).csv" , 
 "window_size" : 30 
 }
